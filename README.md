@@ -1,0 +1,1 @@
+Developed a compiler from scratch using Bison and Flex in C++, encompassing the creation of a symbol table, building a lexical analyzer, implementing a semantic analyzer, and generating intermediate code.
